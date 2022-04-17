@@ -1,0 +1,19 @@
+h3 {
+    color: rgb(86, 83, 83);
+}
+
+body{
+    background-color: rgb(249, 252, 255);
+}
+
+p.post-meta{
+    text-decoration: underline;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h1.site-heading{
+    font-weight: bolder;
+}
