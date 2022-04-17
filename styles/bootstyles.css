@@ -58,6 +58,7 @@ h1{
     border: 3px;
     border-style: solid;
     border-color: rgb(114, 114, 114);
+    position: relative;
 }
 
 #title{
